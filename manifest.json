@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-070003",
-  "timestamp": "2026-04-30T03:00:03.443093",
+  "version": "v20260430-071503",
+  "timestamp": "2026-04-30T03:15:06.579459",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -163,6 +163,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/Balrond-balrond_shipyard.zip",
       "dropbox_url": ""
     },
+    "BasilPanda-NoStamCosts": {
+      "kind": "plugin",
+      "size": 116841,
+      "sha256": "92a23e71fc3fbfcbc94b535dab5e0e1b7481bde45df3c7c69f5aa81fec4da14b",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-071503/BasilPanda-NoStamCosts.zip",
+      "dropbox_url": ""
+    },
     "Catharis-WildWeapons": {
       "kind": "plugin",
       "size": 50286322,
@@ -266,13 +273,6 @@
       "size": 155439,
       "sha256": "ceb078cb69a0b874735197611a17525c5b781fccaa69cc808a7e4b004cfb8530",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/JereKuusela-Projectile_Collision.zip",
-      "dropbox_url": ""
-    },
-    "JereKuusela-Server_Sync_Fix": {
-      "kind": "plugin",
-      "size": 31790,
-      "sha256": "3613ab9f57a371c3ba7a2d3947d87705027c07eb17944a0953ea2a979a47bd40",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/JereKuusela-Server_Sync_Fix.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Server_devcommands": {
@@ -728,6 +728,13 @@
       "size": 28241846,
       "sha256": "1442bb056621f7e3e2ed21880edad36ada7ccca603e3ee3b9611400832c2edb8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/blacks7ar-WeaponAdditions.zip",
+      "dropbox_url": ""
+    },
+    "cjayride-InstantMonsterLootDrop": {
+      "kind": "plugin",
+      "size": 121519,
+      "sha256": "70370da125e08f378bd0037855467fe37ed622e4e45792bc5e8b7f025faa7c86",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-071503/cjayride-InstantMonsterLootDrop.zip",
       "dropbox_url": ""
     },
     "ishid4-BetterArchery": {
