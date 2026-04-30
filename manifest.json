@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-155942",
-  "timestamp": "2026-04-30T15:59:44.678345+00:00",
+  "version": "v20260430-160736",
+  "timestamp": "2026-04-30T16:07:38.612882+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1165893,
-    "sha256": "42d1c4b03baa74b0da4875b333cd1cdeb6559f99d6900130ac994d9a436f6d40",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-155942/configs.zip",
+    "size": 1162382,
+    "sha256": "722cfdaf0564c7c8592268e607f88a56beb37538b7a4f16282c84b5b545579e1",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-160736/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -350,13 +350,6 @@
       "size": 269261,
       "sha256": "b97fba5439813b0cd82fb6db01072291971e1fd95ee4abfa2503b08d0e195cf8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Neobotics-HUDCompass.zip",
-      "dropbox_url": ""
-    },
-    "NickPappas-Location_Placement_Accelerator": {
-      "kind": "plugin",
-      "size": 94976,
-      "sha256": "5082f246fb32aa750731a2e670ad2a02ec97fda327a35bb458fbb9297e636549",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/NickPappas-Location_Placement_Accelerator.zip",
       "dropbox_url": ""
     },
     "OdinPlus-BlacksmithingExpanded": {
