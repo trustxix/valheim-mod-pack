@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-182739",
-  "timestamp": "2026-04-30T18:28:30.065520+00:00",
+  "version": "v20260430-210816",
+  "timestamp": "2026-04-30T21:08:19.105081+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1167170,
-    "sha256": "771f243d9506b8c915e147cb9ee410bd473f519e717d3327e360171a71303160",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/configs.zip",
+    "size": 1167687,
+    "sha256": "0607bcf0ab9d9ec02b88e65277d17cd5a331d6fabe31af00cccf1c170a49be84",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-210816/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -112,6 +112,13 @@
       "size": 63001,
       "sha256": "c5aa54b56f94ff048417e546c5875a4310e893a273af918c79213920a29e4548",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-NoHoeDust.zip",
+      "dropbox_url": ""
+    },
+    "Azumatt-Official_BepInEx_ConfigurationManager": {
+      "kind": "plugin",
+      "size": 106594,
+      "sha256": "e61e19fddf8f581069aaa3f22c052a6acbd369e980265a369848b6d2901b045f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-210816/Azumatt-Official_BepInEx_ConfigurationManager.zip",
       "dropbox_url": ""
     },
     "Azumatt-PerfectPlacement": {
