@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-000119",
-  "timestamp": "2026-04-29T20:05:09.838003",
+  "version": "v20260430-011950",
+  "timestamp": "2026-04-29T21:19:56.230644",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -171,6 +171,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/ChebGonaz-ChebsNecromancy.zip",
       "dropbox_url": ""
     },
+    "ComfyMods-OdinSaves": {
+      "kind": "plugin",
+      "size": 139648,
+      "sha256": "5684bc2b0a736666be96c89494e4fcf87b830438774600f0663262674d57ae03",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-011950/ComfyMods-OdinSaves.zip",
+      "dropbox_url": ""
+    },
     "CookieMilk-MagicalMounts": {
       "kind": "plugin",
       "size": 177273722,
@@ -253,6 +260,13 @@
       "size": 31790,
       "sha256": "3613ab9f57a371c3ba7a2d3947d87705027c07eb17944a0953ea2a979a47bd40",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/JereKuusela-Server_Sync_Fix.zip",
+      "dropbox_url": ""
+    },
+    "JereKuusela-Server_devcommands": {
+      "kind": "plugin",
+      "size": 305814,
+      "sha256": "4391aba10bd1e7818d7671715571bfca30e1f328e5764e94b275b0439c45b52c",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-011950/JereKuusela-Server_devcommands.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-LocalizationCache": {
@@ -521,6 +535,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
+    "Smoothbrain-StartupAccelerator": {
+      "kind": "both",
+      "size": 37483,
+      "sha256": "6ef408074c6f17b65bf332b8108d389b58e4ba674dd492393601b18da6327785",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-011950/Smoothbrain-StartupAccelerator.zip",
+      "dropbox_url": ""
+    },
     "Smoothbrain-TargetPortal": {
       "kind": "plugin",
       "size": 228416,
@@ -617,6 +638,13 @@
       "size": 369908,
       "sha256": "76791491ed72cbc8c8d8aed2207b72b0c787cc8de5a191da3f861ffa330e04a7",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/Vapok-ShieldMeBruh.zip",
+      "dropbox_url": ""
+    },
+    "VitByr-VBNetTweaks": {
+      "kind": "plugin",
+      "size": 106425,
+      "sha256": "1ceda64b5c4d4e7bd9f6ed8ea3cadcb748baf9d5e30dfcb977f1474ea4a56ddf",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-011950/VitByr-VBNetTweaks.zip",
       "dropbox_url": ""
     },
     "Yggdrah-BetterRiding": {
@@ -743,6 +771,13 @@
       "size": 98987,
       "sha256": "9e7b60fb795aefac9dd3d5bc5e3be05cf2c2e79791e9ac3986984cb4f53919d8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/sx-Valheim_BootConfig.zip",
+      "dropbox_url": ""
+    },
+    "warpalicious-World_Gen_Accelerator": {
+      "kind": "plugin",
+      "size": 35378,
+      "sha256": "76e4ca911842e22d48733f346049a7ed111962f9aba14dee629ce228d9dd10e1",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-011950/warpalicious-World_Gen_Accelerator.zip",
       "dropbox_url": ""
     }
   }
