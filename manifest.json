@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-210816",
-  "timestamp": "2026-04-30T21:08:19.105081+00:00",
+  "version": "v20260430-221604",
+  "timestamp": "2026-04-30T22:16:10.306433+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1167687,
-    "sha256": "0607bcf0ab9d9ec02b88e65277d17cd5a331d6fabe31af00cccf1c170a49be84",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-210816/configs.zip",
+    "size": 1187840,
+    "sha256": "38bc7084991ed4e47b59ed73224765afc4e44a5f9f801f5678b5e78cf822645a",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -49,6 +49,13 @@
       "size": 2254469,
       "sha256": "1b57014c3cfe615775b11502e2a3e94b19bba4f94fa9dad7242141c5100657de",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-AAA_Crafting.zip",
+      "dropbox_url": ""
+    },
+    "Azumatt-AllTheBases": {
+      "kind": "plugin",
+      "size": 131849,
+      "sha256": "97c18df26efd260dfd2a2ea387e33317f4e3b3fc8d14e294e6e432601766e8fb",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/Azumatt-AllTheBases.zip",
       "dropbox_url": ""
     },
     "Azumatt-AzuAutoStore": {
@@ -303,6 +310,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/JereKuusela-Upgrade_World.zip",
       "dropbox_url": ""
     },
+    "JewelHeim-EpicLoot_Therzie": {
+      "kind": "plugin",
+      "size": 156505,
+      "sha256": "863b334f0c1ab0a683171b042e424bc08c581f263957404f23e5119477e7c6c8",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/JewelHeim-EpicLoot_Therzie.zip",
+      "dropbox_url": ""
+    },
     "MSchmoecker-LocalizationCache": {
       "kind": "plugin",
       "size": 16165,
@@ -476,6 +490,13 @@
       "size": 164189,
       "sha256": "7a6741ae4dea9da74737638a25699b91e333ad0a4eea7d09244cf3d70eaf53bf",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Radamanto-ServerQuickConnect.zip",
+      "dropbox_url": ""
+    },
+    "RandyKnapp-EpicLoot": {
+      "kind": "plugin",
+      "size": 31101452,
+      "sha256": "76a60a0f279f98216987d0e087000b35d4668b5dde8420b0f2a82ead6172bee3",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/RandyKnapp-EpicLoot.zip",
       "dropbox_url": ""
     },
     "RustyMods-Almanac": {
