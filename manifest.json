@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-055452",
-  "timestamp": "2026-04-30T01:54:54.128983",
+  "version": "v20260430-070003",
+  "timestamp": "2026-04-30T03:00:03.443093",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -805,13 +805,6 @@
       "size": 98987,
       "sha256": "9e7b60fb795aefac9dd3d5bc5e3be05cf2c2e79791e9ac3986984cb4f53919d8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/sx-Valheim_BootConfig.zip",
-      "dropbox_url": ""
-    },
-    "warpalicious-More_World_Locations_AIO": {
-      "kind": "plugin",
-      "size": 304225799,
-      "sha256": "88848f08a1e80b15125b91232739d71c6a21d76c559676f35878863609645e65",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-053317/warpalicious-More_World_Locations_AIO.zip",
       "dropbox_url": ""
     }
   }
