@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-160736",
-  "timestamp": "2026-04-30T16:07:38.612882+00:00",
+  "version": "v20260430-182739",
+  "timestamp": "2026-04-30T18:28:30.065520+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1162382,
-    "sha256": "722cfdaf0564c7c8592268e607f88a56beb37538b7a4f16282c84b5b545579e1",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-160736/configs.zip",
+    "size": 1167170,
+    "sha256": "771f243d9506b8c915e147cb9ee410bd473f519e717d3327e360171a71303160",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -140,6 +140,20 @@
       "size": 99430,
       "sha256": "95543a27f12ec7fbd02483741b4368a2cab23d4a050d376925a2669d5d934768",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-Where_You_At.zip",
+      "dropbox_url": ""
+    },
+    "Badger-HD_Terrain": {
+      "kind": "plugin",
+      "size": 372068478,
+      "sha256": "d70d1c38f9192a2227fcf4a454bf24e78ace1fe3420f266860b6508969a96db5",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Badger-HD_Terrain.zip",
+      "dropbox_url": ""
+    },
+    "Badger-Shading_Overhaul": {
+      "kind": "plugin",
+      "size": 862911,
+      "sha256": "fa665f452297afe9701765791ed25568c40d9b26a0296cfb4be0bc645e16fa8e",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Badger-Shading_Overhaul.zip",
       "dropbox_url": ""
     },
     "Balrond-balrond_constructions": {
@@ -275,6 +289,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Server_devcommands.zip",
       "dropbox_url": ""
     },
+    "JereKuusela-Upgrade_World": {
+      "kind": "plugin",
+      "size": 79238,
+      "sha256": "ffdb71ae4d0a0e52d13df1d25693af19656cc2f91c455712f1b51b6b9853f5eb",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/JereKuusela-Upgrade_World.zip",
+      "dropbox_url": ""
+    },
     "MSchmoecker-LocalizationCache": {
       "kind": "plugin",
       "size": 16165,
@@ -350,6 +371,20 @@
       "size": 269261,
       "sha256": "b97fba5439813b0cd82fb6db01072291971e1fd95ee4abfa2503b08d0e195cf8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Neobotics-HUDCompass.zip",
+      "dropbox_url": ""
+    },
+    "Nexus-HitchingPost": {
+      "kind": "plugin",
+      "size": 143150,
+      "sha256": "6afb979b28827b105b8ad65621de4fad99640175d870841fab7622f7e7125aae",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Nexus-HitchingPost.zip",
+      "dropbox_url": ""
+    },
+    "NickPappas-Location_Placement_Accelerator": {
+      "kind": "plugin",
+      "size": 94976,
+      "sha256": "5082f246fb32aa750731a2e670ad2a02ec97fda327a35bb458fbb9297e636549",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/NickPappas-Location_Placement_Accelerator.zip",
       "dropbox_url": ""
     },
     "OdinPlus-BlacksmithingExpanded": {
@@ -798,6 +833,13 @@
       "size": 98987,
       "sha256": "9e7b60fb795aefac9dd3d5bc5e3be05cf2c2e79791e9ac3986984cb4f53919d8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/sx-Valheim_BootConfig.zip",
+      "dropbox_url": ""
+    },
+    "warpalicious-More_World_Locations_AIO": {
+      "kind": "plugin",
+      "size": 304225799,
+      "sha256": "f6cc275a8db67f87c05545195c4ecffb529d1c630a046939e9a2dc895ae450f3",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/warpalicious-More_World_Locations_AIO.zip",
       "dropbox_url": ""
     }
   }
