@@ -1,6 +1,6 @@
 {
-  "version": "v20260430-144229",
-  "timestamp": "2026-04-30T14:42:29.949520+00:00",
+  "version": "v20260430-152814",
+  "timestamp": "2026-04-30T15:28:16.699217+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1166483,
-    "sha256": "d9675f0a35b75d2ec79d9680ab79ed572dfd111a5ea6a17be25af4f37ed3336d",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-081839/configs.zip",
+    "size": 1166481,
+    "sha256": "a56a8ca77ee7c2a4407fd0760e54a7e2dc7ad058e01c5798a4d016989db86bae",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-152814/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
