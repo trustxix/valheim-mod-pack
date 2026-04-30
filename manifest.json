@@ -1,7 +1,7 @@
 {
-  "version": "v20260430-014222",
-  "timestamp": "2026-04-29T21:42:25.214604",
-  "modset": "client",
+  "version": "v20260430-034128",
+  "timestamp": "2026-04-29T23:41:33.717291",
+  "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
     "size": 715934,
@@ -11,8 +11,8 @@
   },
   "configs": {
     "size": 1166724,
-    "sha256": "5969b905ba6fe12b58da389ce6f065f140f267a6f7a662699bb52059d5974ac9",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-014222/configs.zip",
+    "sha256": "442099bc319fc7c006dbd0639957266c06a6b5b3df1c6fdb0fb7443b720fa4e6",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-034128/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -112,6 +112,13 @@
       "size": 63001,
       "sha256": "c5aa54b56f94ff048417e546c5875a4310e893a273af918c79213920a29e4548",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/Azumatt-NoHoeDust.zip",
+      "dropbox_url": ""
+    },
+    "Azumatt-Official_BepInEx_ConfigurationManager": {
+      "kind": "plugin",
+      "size": 106594,
+      "sha256": "e61e19fddf8f581069aaa3f22c052a6acbd369e980265a369848b6d2901b045f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-034128/Azumatt-Official_BepInEx_ConfigurationManager.zip",
       "dropbox_url": ""
     },
     "Azumatt-PerfectPlacement": {
@@ -541,6 +548,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
+    "Smoothbrain-SoundOfSilence": {
+      "kind": "plugin",
+      "size": 51440,
+      "sha256": "691e00f6b7bb21334d0fd28c6bc855e6e988a8ac5761c14dcb4ce2129d44b9bd",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-034128/Smoothbrain-SoundOfSilence.zip",
+      "dropbox_url": ""
+    },
     "Smoothbrain-StartupAccelerator": {
       "kind": "both",
       "size": 37483,
@@ -567,6 +581,13 @@
       "size": 107316,
       "sha256": "60b9cc78da95253f4dce4a7cd9d3b71cf23055ee1b6d4ca7e71fafd35ea2a252",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-000119/TastyChickenLegs-LongerDays.zip",
+      "dropbox_url": ""
+    },
+    "Tekla-AutoRepair": {
+      "kind": "plugin",
+      "size": 19800,
+      "sha256": "a8bba43b5c76ea071d19a218ce8a3dd305c6e981b3d863a64b4458aa53f80f29",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-034128/Tekla-AutoRepair.zip",
       "dropbox_url": ""
     },
     "Therzie-Armory": {
