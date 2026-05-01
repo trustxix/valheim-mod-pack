@@ -1,6 +1,7 @@
 {
-  "version": "v20260501-001449",
-  "timestamp": "2026-05-01T00:15:48.579494+00:00",
+  "schema_version": 1,
+  "version": "v20260501-003449",
+  "timestamp": "2026-05-01T00:35:42.179952+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
