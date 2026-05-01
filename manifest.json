@@ -1,7 +1,7 @@
 {
-  "version": "v20260430-221604",
-  "timestamp": "2026-04-30T22:16:10.306433+00:00",
-  "modset": "server",
+  "version": "v20260501-001449",
+  "timestamp": "2026-05-01T00:16:59.767416+00:00",
+  "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
     "size": 715934,
@@ -10,9 +10,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1187840,
-    "sha256": "38bc7084991ed4e47b59ed73224765afc4e44a5f9f801f5678b5e78cf822645a",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/configs.zip",
+    "size": 444920,
+    "sha256": "fc3e9d9e24cf84ded1c0630cc02b6ead8e3973a278e884258af745ba945de73d",
+    "github_url": "",
     "dropbox_url": ""
   },
   "mods": {
@@ -212,13 +212,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ChebGonaz-ChebsNecromancy.zip",
       "dropbox_url": ""
     },
-    "ComfyMods-OdinSaves": {
-      "kind": "plugin",
-      "size": 139648,
-      "sha256": "5684bc2b0a736666be96c89494e4fcf87b830438774600f0663262674d57ae03",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ComfyMods-OdinSaves.zip",
-      "dropbox_url": ""
-    },
     "CookieMilk-MagicalMounts": {
       "kind": "plugin",
       "size": 177273722,
@@ -294,20 +287,6 @@
       "size": 155439,
       "sha256": "ceb078cb69a0b874735197611a17525c5b781fccaa69cc808a7e4b004cfb8530",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Projectile_Collision.zip",
-      "dropbox_url": ""
-    },
-    "JereKuusela-Server_devcommands": {
-      "kind": "plugin",
-      "size": 305814,
-      "sha256": "4391aba10bd1e7818d7671715571bfca30e1f328e5764e94b275b0439c45b52c",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Server_devcommands.zip",
-      "dropbox_url": ""
-    },
-    "JereKuusela-Upgrade_World": {
-      "kind": "plugin",
-      "size": 79238,
-      "sha256": "ffdb71ae4d0a0e52d13df1d25693af19656cc2f91c455712f1b51b6b9853f5eb",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/JereKuusela-Upgrade_World.zip",
       "dropbox_url": ""
     },
     "JewelHeim-EpicLoot_Therzie": {
@@ -611,13 +590,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-SoundOfSilence.zip",
       "dropbox_url": ""
     },
-    "Smoothbrain-StartupAccelerator": {
-      "kind": "both",
-      "size": 37483,
-      "sha256": "6ef408074c6f17b65bf332b8108d389b58e4ba674dd492393601b18da6327785",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-StartupAccelerator.zip",
-      "dropbox_url": ""
-    },
     "Smoothbrain-TargetPortal": {
       "kind": "plugin",
       "size": 228416,
@@ -721,13 +693,6 @@
       "size": 369908,
       "sha256": "76791491ed72cbc8c8d8aed2207b72b0c787cc8de5a191da3f861ffa330e04a7",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Vapok-ShieldMeBruh.zip",
-      "dropbox_url": ""
-    },
-    "VitByr-VBNetTweaks": {
-      "kind": "plugin",
-      "size": 106425,
-      "sha256": "1ceda64b5c4d4e7bd9f6ed8ea3cadcb748baf9d5e30dfcb977f1474ea4a56ddf",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/VitByr-VBNetTweaks.zip",
       "dropbox_url": ""
     },
     "Yggdrah-BetterRiding": {
