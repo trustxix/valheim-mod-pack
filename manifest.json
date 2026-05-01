@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260501-003449",
-  "timestamp": "2026-05-01T00:36:38.654265+00:00",
+  "version": "v20260501-021206",
+  "timestamp": "2026-05-01T02:13:52.240923+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -155,20 +155,6 @@
       "size": 99430,
       "sha256": "95543a27f12ec7fbd02483741b4368a2cab23d4a050d376925a2669d5d934768",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-Where_You_At.zip",
-      "dropbox_url": ""
-    },
-    "Badger-HD_Terrain": {
-      "kind": "plugin",
-      "size": 372068478,
-      "sha256": "d70d1c38f9192a2227fcf4a454bf24e78ace1fe3420f266860b6508969a96db5",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Badger-HD_Terrain.zip",
-      "dropbox_url": ""
-    },
-    "Badger-Shading_Overhaul": {
-      "kind": "plugin",
-      "size": 862911,
-      "sha256": "fa665f452297afe9701765791ed25568c40d9b26a0296cfb4be0bc645e16fa8e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Badger-Shading_Overhaul.zip",
       "dropbox_url": ""
     },
     "Balrond-balrond_constructions": {
