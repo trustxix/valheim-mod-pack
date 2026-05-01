@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260501-021206",
-  "timestamp": "2026-05-01T02:13:52.240923+00:00",
+  "version": "v20260501-023119",
+  "timestamp": "2026-05-01T02:33:10.711260+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -276,11 +276,18 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Projectile_Collision.zip",
       "dropbox_url": ""
     },
-    "JewelHeim-EpicLoot_Therzie": {
+    "JereKuusela-Upgrade_World": {
       "kind": "plugin",
-      "size": 156505,
-      "sha256": "863b334f0c1ab0a683171b042e424bc08c581f263957404f23e5119477e7c6c8",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/JewelHeim-EpicLoot_Therzie.zip",
+      "size": 222934,
+      "sha256": "cea89c467d8d23f4542ab640eacff4262e022190face31d6f64ed7225a6dd2fa",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/JereKuusela-Upgrade_World.zip",
+      "dropbox_url": ""
+    },
+    "KGvalheim-MoreMapPins": {
+      "kind": "plugin",
+      "size": 26526,
+      "sha256": "43cec0648409b4f8c5eaff3430caf92bbd1fceda3adaf6f42b9e2efd289d7d2d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/KGvalheim-MoreMapPins.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-LocalizationCache": {
@@ -358,13 +365,6 @@
       "size": 269261,
       "sha256": "b97fba5439813b0cd82fb6db01072291971e1fd95ee4abfa2503b08d0e195cf8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Neobotics-HUDCompass.zip",
-      "dropbox_url": ""
-    },
-    "Nexus-HitchingPost": {
-      "kind": "plugin",
-      "size": 143150,
-      "sha256": "6afb979b28827b105b8ad65621de4fad99640175d870841fab7622f7e7125aae",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/Nexus-HitchingPost.zip",
       "dropbox_url": ""
     },
     "NickPappas-Location_Placement_Accelerator": {
@@ -458,11 +458,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Radamanto-ServerQuickConnect.zip",
       "dropbox_url": ""
     },
-    "RandyKnapp-EpicLoot": {
+    "Ruijven-BetterSmelting": {
       "kind": "plugin",
-      "size": 31101452,
-      "sha256": "76a60a0f279f98216987d0e087000b35d4668b5dde8420b0f2a82ead6172bee3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/RandyKnapp-EpicLoot.zip",
+      "size": 278231,
+      "sha256": "8f3fa669e6167c5f4e11177d9dc4bacca4ada567c2fc01680a013468e74d70db",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/Ruijven-BetterSmelting.zip",
       "dropbox_url": ""
     },
     "RustyMods-Almanac": {
@@ -717,6 +717,20 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-FoodDurationMultiplier.zip",
       "dropbox_url": ""
     },
+    "blacks7ar-GunzNBullets": {
+      "kind": "plugin",
+      "size": 10931341,
+      "sha256": "6ec1c7d22d27c6b4af343ed0bae205e418a5432a672d60fd75ee0ca02cd857b0",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/blacks7ar-GunzNBullets.zip",
+      "dropbox_url": ""
+    },
+    "blacks7ar-Javelins": {
+      "kind": "plugin",
+      "size": 695053,
+      "sha256": "c8a1be6306c8489d588153eeb6fbf3a54b4e23c64ddc266ca75ed8885b485142",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/blacks7ar-Javelins.zip",
+      "dropbox_url": ""
+    },
     "blacks7ar-OdinsHares": {
       "kind": "plugin",
       "size": 6984971,
@@ -750,6 +764,13 @@
       "size": 126602,
       "sha256": "8fd320e2a2e85ec637d8ef010a2b60545e0e4f069aec85cb9f88120dba2202a9",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/madkat-DragonRidersExtras.zip",
+      "dropbox_url": ""
+    },
+    "malafein-HitchingPost": {
+      "kind": "plugin",
+      "size": 143180,
+      "sha256": "7ae1d3e077b8dd0fd69121b9bdb88becbe225fd4ba512fd2529f62c2d84a4899",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/malafein-HitchingPost.zip",
       "dropbox_url": ""
     },
     "mtnewton-ItemStacks": {
