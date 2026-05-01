@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260501-023119",
-  "timestamp": "2026-05-01T02:32:12.861056+00:00",
+  "version": "v20260501-173037",
+  "timestamp": "2026-05-01T17:31:30.668629+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1187840,
-    "sha256": "38bc7084991ed4e47b59ed73224765afc4e44a5f9f801f5678b5e78cf822645a",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-221604/configs.zip",
+    "size": 1202295,
+    "sha256": "71e7e1d841b3b5ac04dfc6dc462da19f0e062de7ddb6cd5269fa390b422d7ed4",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-173037/configs.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -92,6 +92,13 @@
       "size": 104863,
       "sha256": "07f47d740ace33600a3dc97e74902aa9e52a94842f5c5dffd49b9de70e0be9d2",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-AzuSkillTweaks.zip",
+      "dropbox_url": ""
+    },
+    "Azumatt-AzuWorkbenchTweaks": {
+      "kind": "plugin",
+      "size": 119730,
+      "sha256": "e1e3edaca5068716bc765c03d9c8fcf5f3c4bc0e38d63e300a2c5ff1f2ec8d3a",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-173037/Azumatt-AzuWorkbenchTweaks.zip",
       "dropbox_url": ""
     },
     "Azumatt-FirstPersonMode": {
@@ -743,13 +750,6 @@
       "size": 62223,
       "sha256": "15ca0c080ab530c47400bf24cfa79245c49c3959812861d40304fb877431d2fe",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-FoodDurationMultiplier.zip",
-      "dropbox_url": ""
-    },
-    "blacks7ar-GunzNBullets": {
-      "kind": "plugin",
-      "size": 10931341,
-      "sha256": "6ec1c7d22d27c6b4af343ed0bae205e418a5432a672d60fd75ee0ca02cd857b0",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/blacks7ar-GunzNBullets.zip",
       "dropbox_url": ""
     },
     "blacks7ar-Javelins": {
