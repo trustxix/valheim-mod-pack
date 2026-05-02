@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260502-030411",
-  "timestamp": "2026-05-02T03:06:32.326147+00:00",
+  "version": "v20260502-204006",
+  "timestamp": "2026-05-02T20:42:28.729793+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 456101,
-    "sha256": "5d0b2bab2056bc171c9fbb6cd244ad17414b625c5c9f7c743262457dd7194051",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/configs-client.zip",
+    "size": 455520,
+    "sha256": "f0fda6e42cc50375659f69e04320e5b4b0946ce3cb5d20c4b3bd7e765f4af6b6",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-204006/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -771,13 +771,6 @@
       "size": 121519,
       "sha256": "46922d214c72f1b011998787c9ea226deeadea747672f8aa3df7dcb92ee629c2",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/cjayride-InstantMonsterLootDrop.zip",
-      "dropbox_url": ""
-    },
-    "ishid4-BetterArchery": {
-      "kind": "plugin",
-      "size": 1509706,
-      "sha256": "4a0322ec7a3d7b12f3927e85e0c03052c5c2c9a345b4e44ced258ec01fa0818a",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ishid4-BetterArchery.zip",
       "dropbox_url": ""
     },
     "madkat-DragonRidersExtras": {
