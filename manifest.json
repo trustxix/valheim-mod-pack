@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260502-204920",
-  "timestamp": "2026-05-02T20:51:40.406910+00:00",
+  "version": "v20260502-232548",
+  "timestamp": "2026-05-02T23:28:47.945526+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 457781,
-    "sha256": "1a2ab8314345d067f03ab5aaaadf9f1bef4ba391aa430fd1a2216599ae961457",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-204920/configs-client.zip",
+    "size": 459949,
+    "sha256": "cbfd8f385579da62aa9fd5167384b9ba00e7e6a67cdec27fb72c6bacde855e12",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-232548/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -134,13 +134,6 @@
       "size": 63001,
       "sha256": "c5aa54b56f94ff048417e546c5875a4310e893a273af918c79213920a29e4548",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-NoHoeDust.zip",
-      "dropbox_url": ""
-    },
-    "Azumatt-Official_BepInEx_ConfigurationManager": {
-      "kind": "plugin",
-      "size": 106594,
-      "sha256": "e61e19fddf8f581069aaa3f22c052a6acbd369e980265a369848b6d2901b045f",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-210816/Azumatt-Official_BepInEx_ConfigurationManager.zip",
       "dropbox_url": ""
     },
     "Azumatt-PerfectPlacement": {
@@ -773,6 +766,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/cjayride-InstantMonsterLootDrop.zip",
       "dropbox_url": ""
     },
+    "ishid4-BetterArchery": {
+      "kind": "plugin",
+      "size": 1509536,
+      "sha256": "99066cde5002205c4bed902528a65dd6a0bf096004f8a731fc91d50e1374528d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-232548/ishid4-BetterArchery.zip",
+      "dropbox_url": ""
+    },
     "madkat-DragonRidersExtras": {
       "kind": "plugin",
       "size": 126602,
@@ -782,9 +782,9 @@
     },
     "malafein-HitchingPost": {
       "kind": "plugin",
-      "size": 143180,
-      "sha256": "7ae1d3e077b8dd0fd69121b9bdb88becbe225fd4ba512fd2529f62c2d84a4899",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/malafein-HitchingPost.zip",
+      "size": 143253,
+      "sha256": "ae673b4ce88840e09a32cbf39f7c5df5fbc27f0b16018f7bbd68da42bbea4f21",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-232548/malafein-HitchingPost.zip",
       "dropbox_url": ""
     },
     "mtnewton-ItemStacks": {
