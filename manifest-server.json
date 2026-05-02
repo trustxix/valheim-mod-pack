@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260502-003543",
-  "timestamp": "2026-05-02T00:35:45.006771+00:00",
+  "version": "v20260502-023711",
+  "timestamp": "2026-05-02T02:39:14.593182+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -22,6 +22,13 @@
       "size": 93192,
       "sha256": "1ee9948d3a2813b4b3c7dd44bcd01794178612931f38ba60734b204f34a9f5ca",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/A2-No_Startup_Logo.zip",
+      "dropbox_url": ""
+    },
+    "ASharpPen-Spawn_That": {
+      "kind": "plugin",
+      "size": 282026,
+      "sha256": "3c3c25c65cb7a4456b4565e7be17f9f86b7d2efff17dda889be3a0dd7e77da4c",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-023711/ASharpPen-Spawn_That.zip",
       "dropbox_url": ""
     },
     "ASharpPen-This_Goes_Here": {
@@ -498,6 +505,13 @@
       "size": 981801,
       "sha256": "005d29f60dbcc2fa5bf2f0a64a7a68d46d5f96873daeacb5802c4d738ed283cb",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/RustyMods-Seasonality.zip",
+      "dropbox_url": ""
+    },
+    "Searica-AdvancedTerrainModifiers": {
+      "kind": "plugin",
+      "size": 297536,
+      "sha256": "bb5a0c5130cbd20d58fce936215db31e28ac0050583c384a800e1a425f04e397",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-023711/Searica-AdvancedTerrainModifiers.zip",
       "dropbox_url": ""
     },
     "Skarif-ValheimPerformanceOverhaul": {
