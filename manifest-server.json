@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260502-023711",
-  "timestamp": "2026-05-02T02:39:14.593182+00:00",
+  "version": "v20260502-030411",
+  "timestamp": "2026-05-02T03:05:37.986360+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -218,6 +218,13 @@
       "size": 139648,
       "sha256": "5684bc2b0a736666be96c89494e4fcf87b830438774600f0663262674d57ae03",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ComfyMods-OdinSaves.zip",
+      "dropbox_url": ""
+    },
+    "ComfyMods-SearsCatalog": {
+      "kind": "plugin",
+      "size": 52361,
+      "sha256": "5f9010850ee1d40aa4a366e7863657bc76d2e1c77d5b3e032cce35ac5016cd78",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-030411/ComfyMods-SearsCatalog.zip",
       "dropbox_url": ""
     },
     "CookieMilk-MagicalMounts": {
