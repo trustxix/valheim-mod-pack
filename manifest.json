@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260501-211336",
-  "timestamp": "2026-05-01T21:21:09.745322+00:00",
+  "version": "v20260502-002631",
+  "timestamp": "2026-05-02T00:29:20.865459+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 459622,
-    "sha256": "1e25e47872923bae34fb96a649e1556b1c2fbc23b6d83b501906f299d10260a2",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-211336/configs.zip",
+    "size": 456101,
+    "sha256": "5d0b2bab2056bc171c9fbb6cd244ad17414b625c5c9f7c743262457dd7194051",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -367,18 +367,18 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Meldurson-AllTameableTamingOverhaul.zip",
       "dropbox_url": ""
     },
+    "ModSync-BorderlessCursorFix": {
+      "kind": "plugin",
+      "size": 2979,
+      "sha256": "ba7816bac766ab16ceb27e33f2a84904503c21384d349baef783fbcbcb98f33d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/ModSync-BorderlessCursorFix.zip",
+      "dropbox_url": ""
+    },
     "Neobotics-HUDCompass": {
       "kind": "plugin",
       "size": 269261,
       "sha256": "b97fba5439813b0cd82fb6db01072291971e1fd95ee4abfa2503b08d0e195cf8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Neobotics-HUDCompass.zip",
-      "dropbox_url": ""
-    },
-    "NickPappas-Location_Placement_Accelerator": {
-      "kind": "plugin",
-      "size": 94976,
-      "sha256": "5082f246fb32aa750731a2e670ad2a02ec97fda327a35bb458fbb9297e636549",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/NickPappas-Location_Placement_Accelerator.zip",
       "dropbox_url": ""
     },
     "OdinPlus-BlacksmithingExpanded": {
