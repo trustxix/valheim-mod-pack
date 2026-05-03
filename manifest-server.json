@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260502-235258",
-  "timestamp": "2026-05-02T23:55:17.535992+00:00",
+  "version": "v20260503-000442",
+  "timestamp": "2026-05-03T00:07:53.461753+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1184980,
-    "sha256": "30aa828732fb95b79a5f06c4a7216776c13d45c08152aad11eeccafb9efb8151",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-233209/configs-server.zip",
+    "size": 1184981,
+    "sha256": "b926e05cf74d0a75cb8a989d547e921d0f76d261e45f2e41e3be86654149ae91",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-000442/configs-server.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -236,9 +236,9 @@
     },
     "Dreanegade-Magic_Supremacy": {
       "kind": "plugin",
-      "size": 86947478,
-      "sha256": "4819216c8371b6a90ce0b8d9f342a235ecd12bc0ed02c248604f36c9c536c522",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Dreanegade-Magic_Supremacy.zip",
+      "size": 108200485,
+      "sha256": "e6164c2460b8790d8de7e439845b9cc34765f4ee6a8e0b3ebfb58c4b0f6d74c9",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-000442/Dreanegade-Magic_Supremacy.zip",
       "dropbox_url": ""
     },
     "GoldenJude-Blacksmiths_tools": {
