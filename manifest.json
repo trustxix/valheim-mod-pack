@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-000442",
-  "timestamp": "2026-05-03T00:08:54.507075+00:00",
+  "version": "v20260503-041233",
+  "timestamp": "2026-05-03T04:15:41.249235+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 459961,
-    "sha256": "f4ff06170f8e19b70603d642528776c5dc2fe88b02b794aae0f4b11275e2150f",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-000442/configs-client.zip",
+    "size": 438351,
+    "sha256": "aff68de6764b2164e6e2bc60dce138fe55c07797ccd441c15de0531befea22e0",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-041233/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -372,6 +372,13 @@
       "size": 1510506,
       "sha256": "427972908ab82ac17bb9b1db011c5666945944c517405fa475d1b86e8bd67a69",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Meldurson-AllTameableTamingOverhaul.zip",
+      "dropbox_url": ""
+    },
+    "ModSync-BonesForAll": {
+      "kind": "plugin",
+      "size": 4498,
+      "sha256": "b2e39724f2cceb7330912befe61353a59560e1f73422061d0237ac6a3e92d9c3",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-041233/ModSync-BonesForAll.zip",
       "dropbox_url": ""
     },
     "ModSync-BorderlessCursorFix": {
