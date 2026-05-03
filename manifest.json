@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-062855",
-  "timestamp": "2026-05-03T06:31:53.560848+00:00",
+  "version": "v20260503-064006",
+  "timestamp": "2026-05-03T06:42:58.763658+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -362,9 +362,9 @@
     },
     "Marlthon-OdinShip": {
       "kind": "plugin",
-      "size": 40780327,
-      "sha256": "7e6a5a9aefc8794ba4e6a06c58465a5bf84f322eb04d34088d1555b8fecfa0aa",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-OdinShip.zip",
+      "size": 37365670,
+      "sha256": "979ca5335e5d561989bf1e2f782a050c108a6c09445621bdc6bf3c8c3789b882",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-064006/Marlthon-OdinShip.zip",
       "dropbox_url": ""
     },
     "Marlthon-SeaAnimals": {
