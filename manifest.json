@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-041233",
-  "timestamp": "2026-05-03T04:15:41.249235+00:00",
+  "version": "v20260503-055849",
+  "timestamp": "2026-05-03T06:01:07.129147+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 438351,
-    "sha256": "aff68de6764b2164e6e2bc60dce138fe55c07797ccd441c15de0531befea22e0",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-041233/configs-client.zip",
+    "size": 440526,
+    "sha256": "7dea9767f9843c2941ad900c18aa2ec5c6e12c3e55eb081fd5b521fd30b3812c",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-055849/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -288,6 +288,13 @@
       "size": 155439,
       "sha256": "ceb078cb69a0b874735197611a17525c5b781fccaa69cc808a7e4b004cfb8530",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Projectile_Collision.zip",
+      "dropbox_url": ""
+    },
+    "JereKuusela-Server_devcommands": {
+      "kind": "plugin",
+      "size": 305814,
+      "sha256": "4391aba10bd1e7818d7671715571bfca30e1f328e5764e94b275b0439c45b52c",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-055849/JereKuusela-Server_devcommands.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Upgrade_World": {
