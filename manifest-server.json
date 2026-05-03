@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-064006",
-  "timestamp": "2026-05-03T06:42:02.691471+00:00",
+  "version": "v20260503-160254",
+  "timestamp": "2026-05-03T16:05:48.527224+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1161893,
-    "sha256": "9a41388a482d6669d0a153a39e9cce6b1bc8cc6e5852a8c98dd51ec0d44837ff",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-061525/configs-server.zip",
+    "size": 1513577,
+    "sha256": "437044abbd18b5141d163debc61a4c96a80ebbfb84b55ddd724c4dfcf43c5891",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-160254/configs-server.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -316,6 +316,13 @@
       "size": 222934,
       "sha256": "cea89c467d8d23f4542ab640eacff4262e022190face31d6f64ed7225a6dd2fa",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/JereKuusela-Upgrade_World.zip",
+      "dropbox_url": ""
+    },
+    "KGvalheim-MoreMapPins": {
+      "kind": "plugin",
+      "size": 26526,
+      "sha256": "43cec0648409b4f8c5eaff3430caf92bbd1fceda3adaf6f42b9e2efd289d7d2d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-160254/KGvalheim-MoreMapPins.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-LocalizationCache": {
@@ -652,6 +659,13 @@
       "size": 19800,
       "sha256": "a8bba43b5c76ea071d19a218ce8a3dd305c6e981b3d863a64b4458aa53f80f29",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Tekla-AutoRepair.zip",
+      "dropbox_url": ""
+    },
+    "TheOllix-PixelMapIcons": {
+      "kind": "plugin",
+      "size": 50040,
+      "sha256": "4a6c14e821292f0dea4cdbe41c5d5136a36d4f6655e035f610bfa4b5060cec93",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-160254/TheOllix-PixelMapIcons.zip",
       "dropbox_url": ""
     },
     "Therzie-Armory": {
