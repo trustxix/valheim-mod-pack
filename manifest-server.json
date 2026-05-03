@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-061525",
-  "timestamp": "2026-05-03T06:17:12.333511+00:00",
+  "version": "v20260503-062855",
+  "timestamp": "2026-05-03T06:30:55.841223+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -185,6 +185,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/BasilPanda-NoStamCosts.zip",
       "dropbox_url": ""
     },
+    "BlackViking-MorePins": {
+      "kind": "plugin",
+      "size": 101794,
+      "sha256": "c09d7f7a77b4a5d389d3656f5fd0303df1ba3fa229b04469974b0cc7128200db",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-062855/BlackViking-MorePins.zip",
+      "dropbox_url": ""
+    },
     "Catharis-WildWeapons": {
       "kind": "plugin",
       "size": 50286383,
@@ -309,13 +316,6 @@
       "size": 222934,
       "sha256": "cea89c467d8d23f4542ab640eacff4262e022190face31d6f64ed7225a6dd2fa",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/JereKuusela-Upgrade_World.zip",
-      "dropbox_url": ""
-    },
-    "KGvalheim-MoreMapPins": {
-      "kind": "plugin",
-      "size": 26526,
-      "sha256": "43cec0648409b4f8c5eaff3430caf92bbd1fceda3adaf6f42b9e2efd289d7d2d",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/KGvalheim-MoreMapPins.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-LocalizationCache": {
