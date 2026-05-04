@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260503-160254",
-  "timestamp": "2026-05-03T16:06:51.521478+00:00",
+  "version": "v20260504-034518",
+  "timestamp": "2026-05-04T03:49:20.580254+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 807414,
-    "sha256": "0bf5a027b5b91285e6f72e46cf5802be0aee28003cd8f6a01ee115ab37325d7f",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-160254/configs-client.zip",
+    "size": 804386,
+    "sha256": "a4829b4533140f82425927425280c864c2cdab3f432bf57d479de571f2aa05f9",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-034518/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -36,13 +36,6 @@
       "size": 105648,
       "sha256": "3be5d57e9109b507b33fa982969db06ee95487553ba90b19f2463cc3ae161b70",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ASharpPen-This_Goes_Here.zip",
-      "dropbox_url": ""
-    },
-    "Advize-PlantEasily": {
-      "kind": "plugin",
-      "size": 189966,
-      "sha256": "99769d4ee64712001ebc61ce0a868b02ee6ea294f09e32dff5560e9741645a72",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Advize-PlantEasily.zip",
       "dropbox_url": ""
     },
     "Advize-PlantEverything": {
@@ -194,9 +187,9 @@
     },
     "Catharis-WildWeapons": {
       "kind": "plugin",
-      "size": 50286383,
-      "sha256": "683e0fa57a4c24e244f3b2020b08f4d744be46ff6b9d9dd4ee0eaea5741e1afa",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Catharis-WildWeapons.zip",
+      "size": 50288643,
+      "sha256": "291060dfd5d290c91fe01ffbcadd1f32ee57ab366c6b9be87e5afc75447f59f3",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-034518/Catharis-WildWeapons.zip",
       "dropbox_url": ""
     },
     "ChebGonaz-ChebsMercenaries": {
@@ -519,13 +512,6 @@
       "size": 297536,
       "sha256": "bb5a0c5130cbd20d58fce936215db31e28ac0050583c384a800e1a425f04e397",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-023711/Searica-AdvancedTerrainModifiers.zip",
-      "dropbox_url": ""
-    },
-    "Skarif-ValheimPerformanceOverhaul": {
-      "kind": "plugin",
-      "size": 230205,
-      "sha256": "83155a7ca95954277d9620eb5df89e8c5755b5537c0987afa0e7f172dc335a71",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Skarif-ValheimPerformanceOverhaul.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Building": {
