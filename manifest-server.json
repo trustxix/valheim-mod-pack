@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260504-213718",
-  "timestamp": "2026-05-04T21:39:40.189569+00:00",
+  "version": "v20260504-222014",
+  "timestamp": "2026-05-04T22:22:46.156215+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1516018,
-    "sha256": "eee1a9e9a2dca6c392181d28973f607f502210a3cb4af3230c815a940c54702f",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-213718/configs-server.zip",
+    "size": 1521051,
+    "sha256": "8f2c8e70d5cc1ef8b613264d06fcc34ee196e3035b31065b24c4306e5132c890",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-222014/configs-server.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -407,6 +407,13 @@
       "size": 2979,
       "sha256": "ba7816bac766ab16ceb27e33f2a84904503c21384d349baef783fbcbcb98f33d",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/ModSync-BorderlessCursorFix.zip",
+      "dropbox_url": ""
+    },
+    "ModSync-ConfigReloader": {
+      "kind": "plugin",
+      "size": 5299,
+      "sha256": "8c0d32c63e303f69b11499c0d58a9c391d49ddcfa11539e85b899b32686518c0",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-222014/ModSync-ConfigReloader.zip",
       "dropbox_url": ""
     },
     "ModSync-JavelinTweaks": {
