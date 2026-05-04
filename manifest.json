@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260504-034518",
-  "timestamp": "2026-05-04T03:49:20.580254+00:00",
+  "version": "v20260504-145108",
+  "timestamp": "2026-05-04T14:54:40.230232+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 804386,
-    "sha256": "a4829b4533140f82425927425280c864c2cdab3f432bf57d479de571f2aa05f9",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-034518/configs-client.zip",
+    "size": 809822,
+    "sha256": "4f399ce585fb2de20b93d969541bd86314d005d879fa899cdc25cbdb30bbc693",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -395,6 +395,20 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/ModSync-BorderlessCursorFix.zip",
       "dropbox_url": ""
     },
+    "ModSync-JavelinTweaks": {
+      "kind": "plugin",
+      "size": 3925,
+      "sha256": "2feced234ae1980929d63cf6ffff060030dcc32f70726cf5bf3d1b0a5efab9e4",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/ModSync-JavelinTweaks.zip",
+      "dropbox_url": ""
+    },
+    "ModSync-NecromancerFixes": {
+      "kind": "plugin",
+      "size": 3925,
+      "sha256": "8d5e73cd7e4d8baf715cede1a492e87f7905120a4021eafe41736f84f0b12e82",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/ModSync-NecromancerFixes.zip",
+      "dropbox_url": ""
+    },
     "Neobotics-HUDCompass": {
       "kind": "plugin",
       "size": 269261,
@@ -729,6 +743,20 @@
       "size": 176905923,
       "sha256": "94e7063b70f09023458d072a5aea44bfc64a6bfdfe32aecd50722a26fe20701d",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Yggdrah-DragonRiders.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenRecycle": {
+      "kind": "plugin",
+      "size": 27127,
+      "sha256": "40d110c96c4aa76372929b0f69f69164efb8fb3e37bbc39c122e84a423d34d58",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/ZenDragon-ZenRecycle.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-Zen_ModLib": {
+      "kind": "plugin",
+      "size": 105554,
+      "sha256": "fe640618b70c15eef6b909f5d0cb29bce75feef5078640bedeae2ec5d882cd85",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/ZenDragon-Zen_ModLib.zip",
       "dropbox_url": ""
     },
     "blacks7ar-BoatAdditions": {
