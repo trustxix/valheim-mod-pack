@@ -402,13 +402,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-002631/ModSync-BorderlessCursorFix.zip",
       "dropbox_url": ""
     },
-    "ModSync-NecromancyCommander": {
-      "kind": "plugin",
-      "size": 28610,
-      "sha256": "c130779e6185040c4161f8f925e44a2d2f837b6fabe4020f785c332bcfec1d85",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-034518/ModSync-NecromancyCommander.zip",
-      "dropbox_url": ""
-    },
     "Neobotics-HUDCompass": {
       "kind": "plugin",
       "size": 269261,
