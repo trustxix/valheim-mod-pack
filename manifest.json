@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260505-052403",
-  "timestamp": "2026-05-05T05:26:23.405300+00:00",
+  "version": "v20260505-152401",
+  "timestamp": "2026-05-05T15:28:56.231971+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,17 +11,17 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 817377,
-    "sha256": "d7f424ae718d7a9d7b253f46d92251e9d28ddcb4766bffee6de06a84305e47b2",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-050829/configs-client.zip",
+    "size": 698059,
+    "sha256": "f7370d270e6e59cd47c6ecf5eadda5f3fb782a171abd829b85c1d68ccfaf941f",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
     "A2-No_Startup_Logo": {
       "kind": "plugin",
-      "size": 93192,
-      "sha256": "1ee9948d3a2813b4b3c7dd44bcd01794178612931f38ba60734b204f34a9f5ca",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/A2-No_Startup_Logo.zip",
+      "size": 93225,
+      "sha256": "5dd110d309d788813a4120e9a8ec7b9e4b2f52b764c04d8c41d2dc28486d1d29",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/A2-No_Startup_Logo.zip",
       "dropbox_url": ""
     },
     "ASharpPen-Spawn_That": {
@@ -115,13 +115,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-NoHoeDust.zip",
       "dropbox_url": ""
     },
-    "Azumatt-PerfectPlacement": {
-      "kind": "plugin",
-      "size": 126622,
-      "sha256": "2b963ee1b91dcd5d197414b37babd0a008f99930f9c51d59d1c8a553938bb8af",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-PerfectPlacement.zip",
-      "dropbox_url": ""
-    },
     "Azumatt-PetPantry": {
       "kind": "plugin",
       "size": 125473,
@@ -129,25 +122,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-PetPantry.zip",
       "dropbox_url": ""
     },
-    "Azumatt-SaveCrossbowState": {
-      "kind": "plugin",
-      "size": 40886,
-      "sha256": "c0a75939058a39d3a8b914829a5e8800bf79c657becf651f1256853d344c3af3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-SaveCrossbowState.zip",
-      "dropbox_url": ""
-    },
     "Azumatt-Where_You_At": {
       "kind": "plugin",
       "size": 99430,
       "sha256": "95543a27f12ec7fbd02483741b4368a2cab23d4a050d376925a2669d5d934768",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-Where_You_At.zip",
-      "dropbox_url": ""
-    },
-    "Balrond-balrond_constructions": {
-      "kind": "plugin",
-      "size": 40826507,
-      "sha256": "59b70b295df2cb96c0ae63b3f44e7b01283dc5a09e1c0c6507aa8f7d5a0a84c6",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Balrond-balrond_constructions.zip",
       "dropbox_url": ""
     },
     "Balrond-balrond_shipyard": {
@@ -206,32 +185,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-030411/ComfyMods-SearsCatalog.zip",
       "dropbox_url": ""
     },
-    "CookieMilk-MagicalMounts": {
-      "kind": "plugin",
-      "size": 177273722,
-      "sha256": "ffc5802efb0b9d90e861cde944e0c14c3717aa2ab1fa629d19c1e3ad04ef4350",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/CookieMilk-MagicalMounts.zip",
-      "dropbox_url": ""
-    },
     "Digitalroot-Digitalroots_Slope_Combat_Assistance": {
       "kind": "plugin",
       "size": 61105,
       "sha256": "21d79622fd7e62ee0c3014164460935b7b79b596d03cc554db23b5f1c731f1a8",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Digitalroot-Digitalroots_Slope_Combat_Assistance.zip",
-      "dropbox_url": ""
-    },
-    "Dreanegade-Magic_Supremacy": {
-      "kind": "plugin",
-      "size": 108200485,
-      "sha256": "e6164c2460b8790d8de7e439845b9cc34765f4ee6a8e0b3ebfb58c4b0f6d74c9",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-000442/Dreanegade-Magic_Supremacy.zip",
-      "dropbox_url": ""
-    },
-    "GoldenJude-Blacksmiths_tools": {
-      "kind": "plugin",
-      "size": 27283,
-      "sha256": "f929e13e911e81ddad314735f31970ffcae6e5a0e877878107302102227520db",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/GoldenJude-Blacksmiths_tools.zip",
       "dropbox_url": ""
     },
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock": {
@@ -353,13 +311,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-OdinMounts.zip",
       "dropbox_url": ""
     },
-    "Marlthon-OdinShip": {
-      "kind": "plugin",
-      "size": 37365670,
-      "sha256": "979ca5335e5d561989bf1e2f782a050c108a6c09445621bdc6bf3c8c3789b882",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-064006/Marlthon-OdinShip.zip",
-      "dropbox_url": ""
-    },
     "Marlthon-SeaAnimals": {
       "kind": "plugin",
       "size": 27895803,
@@ -409,39 +360,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-145108/ModSync-NecromancerFixes.zip",
       "dropbox_url": ""
     },
-    "OdinPlus-BlacksmithingExpanded": {
-      "kind": "plugin",
-      "size": 281219,
-      "sha256": "c6422363a3c25e5e67fdc26506e001e1620c2d337d8a80e1d9143c3ea7098c68",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-BlacksmithingExpanded.zip",
-      "dropbox_url": ""
-    },
-    "OdinPlus-BruteWeapons": {
-      "kind": "plugin",
-      "size": 10000833,
-      "sha256": "ef54907bc6dc50af84a6f780a9e05343e6881ef100522a5412f9acb63f1143de",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-BruteWeapons.zip",
-      "dropbox_url": ""
-    },
     "OdinPlus-OdinBanners": {
       "kind": "plugin",
       "size": 2451836,
       "sha256": "09b50686d6ac18449a9533f6d24e78c39538cd5eaa7a07d54d843323c766c169",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-OdinBanners.zip",
-      "dropbox_url": ""
-    },
-    "OdinPlus-OdinBear": {
-      "kind": "plugin",
-      "size": 10365927,
-      "sha256": "d77397d90e70cc70c3cc70efd86bba4ae7bf9b220a07d9304b4a231ed67397aa",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-OdinBear.zip",
-      "dropbox_url": ""
-    },
-    "OdinPlus-OdinCampsite": {
-      "kind": "plugin",
-      "size": 8804707,
-      "sha256": "d95bf8b7c05a73e5cf2fa523337d0023cb9d99e9ade27eb13cc2e6bcc7e32747",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-OdinCampsite.zip",
       "dropbox_url": ""
     },
     "OdinPlus-OdinHorse": {
@@ -456,13 +379,6 @@
       "size": 3134222,
       "sha256": "246a5876673ed1b3062b59506bf9691ca5b72031a7315b1d2dfbba90e333ecfc",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-OdinsFoodBarrels.zip",
-      "dropbox_url": ""
-    },
-    "OdinPlus-OdinsSteelworks": {
-      "kind": "plugin",
-      "size": 18638426,
-      "sha256": "18c9253f07f5809f584c0dcd0f759ec4b3b64be7325748328c804b10551ef711",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/OdinPlus-OdinsSteelworks.zip",
       "dropbox_url": ""
     },
     "OdinPlus-OdinsTraps": {
@@ -498,13 +414,6 @@
       "size": 278231,
       "sha256": "8f3fa669e6167c5f4e11177d9dc4bacca4ada567c2fc01680a013468e74d70db",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/Ruijven-BetterSmelting.zip",
-      "dropbox_url": ""
-    },
-    "RustyMods-Almanac": {
-      "kind": "plugin",
-      "size": 715795,
-      "sha256": "78997de5b6cd8210401bb51392e9ae9a79bc0100de051eb68e3ca5430de07fc9",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/RustyMods-Almanac.zip",
       "dropbox_url": ""
     },
     "RustyMods-Seasonality": {
@@ -605,13 +514,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
-    "Smoothbrain-SoundOfSilence": {
-      "kind": "plugin",
-      "size": 51440,
-      "sha256": "691e00f6b7bb21334d0fd28c6bc855e6e988a8ac5761c14dcb4ce2129d44b9bd",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-SoundOfSilence.zip",
-      "dropbox_url": ""
-    },
     "Smoothbrain-TargetPortal": {
       "kind": "plugin",
       "size": 228416,
@@ -624,13 +526,6 @@
       "size": 84484,
       "sha256": "959cbcc0f4e7af83a7a8b6b687b008b4e658a5a29637256821ddae70cc208239",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Tenacity.zip",
-      "dropbox_url": ""
-    },
-    "Tekla-AutoRepair": {
-      "kind": "plugin",
-      "size": 19800,
-      "sha256": "a8bba43b5c76ea071d19a218ce8a3dd305c6e981b3d863a64b4458aa53f80f29",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Tekla-AutoRepair.zip",
       "dropbox_url": ""
     },
     "TheOllix-PixelMapIcons": {
@@ -703,13 +598,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ValheimModding-YamlDotNet.zip",
       "dropbox_url": ""
     },
-    "Vapok-AdventureBackpacks": {
-      "kind": "plugin",
-      "size": 48637217,
-      "sha256": "e2ce964f6a56c3307a61d5bd5d45f6805ca83ac75c850461c54a60eca9473295",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Vapok-AdventureBackpacks.zip",
-      "dropbox_url": ""
-    },
     "Yggdrah-BetterRiding": {
       "kind": "plugin",
       "size": 16897601,
@@ -717,11 +605,53 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Yggdrah-BetterRiding.zip",
       "dropbox_url": ""
     },
-    "Yggdrah-DragonRiders": {
+    "ZenDragon-ZenCombat": {
       "kind": "plugin",
-      "size": 176905923,
-      "sha256": "94e7063b70f09023458d072a5aea44bfc64a6bfdfe32aecd50722a26fe20701d",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Yggdrah-DragonRiders.zip",
+      "size": 73955,
+      "sha256": "5b36e30ede7dba9fffc9a9514012f58cc80ebf1c77c81b85c9d65737194233a7",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenCombat.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenCompass": {
+      "kind": "plugin",
+      "size": 206340,
+      "sha256": "bafd94aa390a63d0533e11f00e7d722966d7b86c81f4b9e6fd10c766846b5749",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenCompass.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenConstruction": {
+      "kind": "plugin",
+      "size": 44389,
+      "sha256": "6e5cca38521a3ab2d4b0e8154ffa337568a6d7b5ea98e709145f3b461920519b",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenConstruction.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenDistributor": {
+      "kind": "plugin",
+      "size": 28593,
+      "sha256": "c2edfe40b18de86acd2f0008824af880b1f812e6ec481ea7e2c0ef0c9bf3bdb8",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenDistributor.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenHoverItem": {
+      "kind": "plugin",
+      "size": 44515,
+      "sha256": "f4859daa3824dae72a3f0e13cbf0e1f97685bbd78b0bbf11496dc9c016719413",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenHoverItem.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenPath": {
+      "kind": "plugin",
+      "size": 25357,
+      "sha256": "69a358a0f97465232325da4ed04aef447d815ebdf4025c19a0209af9364f0352",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenPath.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenPlayer": {
+      "kind": "plugin",
+      "size": 58848,
+      "sha256": "8a6dcc1d123bd84e4e004d7c328f57cc1a35786190f9d6d2484a50c459cf6e1d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenPlayer.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenRaids": {
@@ -731,18 +661,32 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-050829/ZenDragon-ZenRaids.zip",
       "dropbox_url": ""
     },
+    "ZenDragon-ZenRecycle": {
+      "kind": "plugin",
+      "size": 27127,
+      "sha256": "40d110c96c4aa76372929b0f69f69164efb8fb3e37bbc39c122e84a423d34d58",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenRecycle.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenRedecorate": {
+      "kind": "plugin",
+      "size": 34080,
+      "sha256": "526591078261b6748dcee3f7a77b38bda95fe68ab2cf92f04ac6bd92f258923b",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenRedecorate.zip",
+      "dropbox_url": ""
+    },
+    "ZenDragon-ZenUI": {
+      "kind": "plugin",
+      "size": 86539,
+      "sha256": "ee5c91d7d74f78586cc4a8aad308584c80b46c868ad8e77ff13059efb3d0a1bb",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenUI.zip",
+      "dropbox_url": ""
+    },
     "ZenDragon-Zen_ModLib": {
       "kind": "plugin",
       "size": 105722,
       "sha256": "71cc903c635254b1f03ee1db951ecc32d7b31eee248d4d8e0463038d38c42e39",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-213718/ZenDragon-Zen_ModLib.zip",
-      "dropbox_url": ""
-    },
-    "blacks7ar-BoatAdditions": {
-      "kind": "plugin",
-      "size": 35640592,
-      "sha256": "ee10b9ada7fc3c0e879723ce4724cdf25402524a1f2d6ec062e197f9b2de61c2",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-BoatAdditions.zip",
       "dropbox_url": ""
     },
     "blacks7ar-BowPlugin": {
@@ -757,13 +701,6 @@
       "size": 62223,
       "sha256": "15ca0c080ab530c47400bf24cfa79245c49c3959812861d40304fb877431d2fe",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-FoodDurationMultiplier.zip",
-      "dropbox_url": ""
-    },
-    "blacks7ar-Javelins": {
-      "kind": "plugin",
-      "size": 695053,
-      "sha256": "c8a1be6306c8489d588153eeb6fbf3a54b4e23c64ddc266ca75ed8885b485142",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260501-023119/blacks7ar-Javelins.zip",
       "dropbox_url": ""
     },
     "blacks7ar-OdinsHares": {
@@ -794,13 +731,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-232548/ishid4-BetterArchery.zip",
       "dropbox_url": ""
     },
-    "madkat-DragonRidersExtras": {
-      "kind": "plugin",
-      "size": 126602,
-      "sha256": "8fd320e2a2e85ec637d8ef010a2b60545e0e4f069aec85cb9f88120dba2202a9",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/madkat-DragonRidersExtras.zip",
-      "dropbox_url": ""
-    },
     "malafein-HitchingPost": {
       "kind": "plugin",
       "size": 143253,
@@ -813,13 +743,6 @@
       "size": 160557,
       "sha256": "bd9819e990bd474f5b2c16e7c0b13241c9257bb09a9daa2dc86d83ee42e17a57",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/mtnewton-ItemStacks.zip",
-      "dropbox_url": ""
-    },
-    "probablykory-MoreCrossbows": {
-      "kind": "plugin",
-      "size": 597143,
-      "sha256": "5323d6c2c60d6807aaffd8c1574697597f9828a61d91924ca10c69ebdf0eb764",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/probablykory-MoreCrossbows.zip",
       "dropbox_url": ""
     },
     "shudnal-Firefly": {
@@ -843,25 +766,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/shudnal-HipLantern.zip",
       "dropbox_url": ""
     },
-    "shudnal-LongshipUpgrades": {
-      "kind": "plugin",
-      "size": 1229960,
-      "sha256": "d885c0b697075ee60daf9b2a901d6bf82c3efed076b23e1d7f7175b350303381",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/shudnal-LongshipUpgrades.zip",
-      "dropbox_url": ""
-    },
     "sighsorry-Fast_AssetBundle_Loader": {
       "kind": "both",
       "size": 209017,
       "sha256": "a3b11a90dd292475eb24776798047f8b3f259362411b1f250821bd80d2971ba0",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/sighsorry-Fast_AssetBundle_Loader.zip",
-      "dropbox_url": ""
-    },
-    "southsil-SouthsilArmor": {
-      "kind": "plugin",
-      "size": 83283209,
-      "sha256": "a216df288aa3f100940b475fb858c167b53e9e94f3f7f2360d47a5acfb61f84a",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/southsil-SouthsilArmor.zip",
       "dropbox_url": ""
     },
     "sx-Valheim_BootConfig": {
