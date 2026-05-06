@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260505-172855",
-  "timestamp": "2026-05-05T17:30:55.384502+00:00",
+  "version": "v20260506-200342",
+  "timestamp": "2026-05-06T20:05:54.846287+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -148,13 +148,6 @@
       "size": 101794,
       "sha256": "c09d7f7a77b4a5d389d3656f5fd0303df1ba3fa229b04469974b0cc7128200db",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-062855/BlackViking-MorePins.zip",
-      "dropbox_url": ""
-    },
-    "BlackViking-NoBuildRestriction": {
-      "kind": "plugin",
-      "size": 114281,
-      "sha256": "843de559c670d26f2665b2db9ad43f7f35f7b1ede67c9a1d96d2fd267a3ac1b1",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-213718/BlackViking-NoBuildRestriction.zip",
       "dropbox_url": ""
     },
     "Catharis-WildWeapons": {
@@ -607,16 +600,16 @@
     },
     "ZenDragon-ZenCombat": {
       "kind": "plugin",
-      "size": 73955,
-      "sha256": "5b36e30ede7dba9fffc9a9514012f58cc80ebf1c77c81b85c9d65737194233a7",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenCombat.zip",
+      "size": 73931,
+      "sha256": "a3e555da8189692748f33d6606a791b4f1ebefa9a876e66ad04270a5f9c07ebe",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenCombat.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenCompass": {
       "kind": "plugin",
-      "size": 206340,
-      "sha256": "bafd94aa390a63d0533e11f00e7d722966d7b86c81f4b9e6fd10c766846b5749",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenCompass.zip",
+      "size": 206339,
+      "sha256": "6e7961b34e3a0222b3df8d5f19cc461036a05512d3b4ae098c03c196cfbb6eab",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenCompass.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenConstruction": {
@@ -635,9 +628,9 @@
     },
     "ZenDragon-ZenHoverItem": {
       "kind": "plugin",
-      "size": 44515,
-      "sha256": "f4859daa3824dae72a3f0e13cbf0e1f97685bbd78b0bbf11496dc9c016719413",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenHoverItem.zip",
+      "size": 44533,
+      "sha256": "8183827567833987e20b506f507c6de5d7255df070cd45b181edff86d330738e",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenHoverItem.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenPath": {
@@ -656,9 +649,9 @@
     },
     "ZenDragon-ZenRaids": {
       "kind": "plugin",
-      "size": 44058,
-      "sha256": "417c4fddd92dc16a6a393a00574c683dbd341a34233f14da106fcbe625f5798c",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-050829/ZenDragon-ZenRaids.zip",
+      "size": 44063,
+      "sha256": "efb205aa1e5dd8f4c77c511b76dfa888a6fc61827283026312d97580cdeea435",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenRaids.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenRecycle": {
@@ -677,16 +670,16 @@
     },
     "ZenDragon-ZenUI": {
       "kind": "plugin",
-      "size": 86539,
-      "sha256": "ee5c91d7d74f78586cc4a8aad308584c80b46c868ad8e77ff13059efb3d0a1bb",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenUI.zip",
+      "size": 86827,
+      "sha256": "ac0602877f2bca546fca50714777977c7057a16a81e757d122e4d0f106c31a09",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenUI.zip",
       "dropbox_url": ""
     },
     "ZenDragon-Zen_ModLib": {
       "kind": "plugin",
-      "size": 105722,
-      "sha256": "71cc903c635254b1f03ee1db951ecc32d7b31eee248d4d8e0463038d38c42e39",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-213718/ZenDragon-Zen_ModLib.zip",
+      "size": 106687,
+      "sha256": "dabec58cb8a45144f5ef6ee3210fc08e809627a599d43bf1692ed86d47ee00f7",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-Zen_ModLib.zip",
       "dropbox_url": ""
     },
     "blacks7ar-BowPlugin": {
