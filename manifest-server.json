@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260507-030644",
-  "timestamp": "2026-05-07T03:08:08.880594+00:00",
+  "version": "v20260507-050636",
+  "timestamp": "2026-05-07T05:08:03.101173+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 1450522,
-    "sha256": "92a4d2f55293da1768654a59287af5e353cd1e21e8a61642df7df02006fa39a1",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-030644/configs-server.zip",
+    "size": 1450525,
+    "sha256": "e675f680440ba688640a808c7059c8947060b89dd7e2714f31f94bdda1053c60",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-050636/configs-server.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -426,8 +426,8 @@
     "Searica-ToolTweaks": {
       "kind": "plugin",
       "size": 44314,
-      "sha256": "9173a67542465c10d020c52d0b60ac47c5b801e0bc41c2709da0895404c8d20e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-014020/Searica-ToolTweaks.zip",
+      "sha256": "fe9081d41ef9b2e61fd3cf70c201130b5a881b2fab1c7451c5ec092d69258697",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-050636/Searica-ToolTweaks.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Building": {
