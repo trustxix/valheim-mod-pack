@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260506-204704",
-  "timestamp": "2026-05-06T20:49:15.287460+00:00",
+  "version": "v20260507-014020",
+  "timestamp": "2026-05-07T01:46:40.625437+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 732566,
-    "sha256": "9d026b2548654b6f469982d306f2ea07241f0956b2f0fb86dded9c87144ecfb7",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-172855/configs-client.zip",
+    "size": 732562,
+    "sha256": "61518f8b8e524fa9b63c4d927faaeec9db4ced7cae79d51a8c30566f4fa68b64",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-014020/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -311,13 +311,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-SeaAnimals.zip",
       "dropbox_url": ""
     },
-    "Meldurson-AllTameableTamingOverhaul": {
-      "kind": "plugin",
-      "size": 1510506,
-      "sha256": "427972908ab82ac17bb9b1db011c5666945944c517405fa475d1b86e8bd67a69",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Meldurson-AllTameableTamingOverhaul.zip",
-      "dropbox_url": ""
-    },
     "ModSync-BonesForAll": {
       "kind": "plugin",
       "size": 4498,
@@ -421,6 +414,13 @@
       "size": 297536,
       "sha256": "bb5a0c5130cbd20d58fce936215db31e28ac0050583c384a800e1a425f04e397",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-023711/Searica-AdvancedTerrainModifiers.zip",
+      "dropbox_url": ""
+    },
+    "Searica-ToolTweaks": {
+      "kind": "plugin",
+      "size": 44314,
+      "sha256": "9173a67542465c10d020c52d0b60ac47c5b801e0bc41c2709da0895404c8d20e",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-014020/Searica-ToolTweaks.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Building": {
@@ -675,6 +675,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenUI.zip",
       "dropbox_url": ""
     },
+    "ZenDragon-ZenWorldSettings": {
+      "kind": "plugin",
+      "size": 72425,
+      "sha256": "552cdda64b201f8c609706538b55747dd58b6d824da2c7409bc54a181ef771ec",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-014020/ZenDragon-ZenWorldSettings.zip",
+      "dropbox_url": ""
+    },
     "ZenDragon-Zen_ModLib": {
       "kind": "plugin",
       "size": 106687,
@@ -775,9 +782,9 @@
     },
     "warpalicious-More_World_Locations_AIO": {
       "kind": "plugin",
-      "size": 304225799,
-      "sha256": "f6cc275a8db67f87c05545195c4ecffb529d1c630a046939e9a2dc895ae450f3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-182739/warpalicious-More_World_Locations_AIO.zip",
+      "size": 335464331,
+      "sha256": "79581c2f2c9a10d65fd0fe266787f8c866a0e19d713bcc2b384955cfdb12b31f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-014020/warpalicious-More_World_Locations_AIO.zip",
       "dropbox_url": ""
     }
   }
