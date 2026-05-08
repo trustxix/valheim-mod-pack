@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260508-164610",
-  "timestamp": "2026-05-08T16:46:12.513987+00:00",
+  "version": "v20260508-165644",
+  "timestamp": "2026-05-08T16:56:46.477649+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 693032,
-    "sha256": "c9888363e47b60159c6cc4d848f4616ca53a54c3e43b0af7d02f3c341a0eeeb8",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-164610/configs-client.zip",
+    "size": 625801,
+    "sha256": "ba40ed660fb3ace5c000297bb1e4b5a288893c2d8dca8f62045ddab8669d2052",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-165644/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -199,27 +199,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/HugotheDwarf-More_and_Modified_Player_Cloth_Colliders.zip",
       "dropbox_url": ""
     },
-    "JereKuusela-Expand_World_Data": {
-      "kind": "plugin",
-      "size": 246068,
-      "sha256": "70023c0a9f2765ef548a4e6db29c8aa76b1f1f0b7c489981e7479b1044b8897e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Expand_World_Data.zip",
-      "dropbox_url": ""
-    },
-    "JereKuusela-Expand_World_Rivers": {
-      "kind": "plugin",
-      "size": 141962,
-      "sha256": "fe5f93f3f651e8cdc8f5feaea14df1b045cbabf46e6f10c5105762b911d6b103",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Expand_World_Rivers.zip",
-      "dropbox_url": ""
-    },
-    "JereKuusela-Expand_World_Size": {
-      "kind": "plugin",
-      "size": 144745,
-      "sha256": "743b12497a5e38ba2f86be599c8c6792dcfadcb3d60beeaf26e8df9000bdbe01",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Expand_World_Size.zip",
-      "dropbox_url": ""
-    },
     "JereKuusela-Projectile_Collision": {
       "kind": "plugin",
       "size": 155439,
@@ -267,27 +246,6 @@
       "size": 17259135,
       "sha256": "ecf1bbb44019fdd186975f0f65663bb3430eb950324e30e510edfd294e6eded9",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-AirAnimals.zip",
-      "dropbox_url": ""
-    },
-    "Marlthon-Cats": {
-      "kind": "plugin",
-      "size": 4075065,
-      "sha256": "2db5ada6d0c4793fb63c70a18521b176950ce908cd46bbbf34048dcd0415fe5e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-Cats.zip",
-      "dropbox_url": ""
-    },
-    "Marlthon-Dogs": {
-      "kind": "plugin",
-      "size": 58673557,
-      "sha256": "8bcae7448d3f17ab969f8bd08932584660cad299d8e1a90f8d004610218ef5e3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-Dogs.zip",
-      "dropbox_url": ""
-    },
-    "Marlthon-OdinMounts": {
-      "kind": "plugin",
-      "size": 71327057,
-      "sha256": "aba71f9304284b78fe5b7f06031913d1eee7005b0aa434a6ea403fdf1105cd1c",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Marlthon-OdinMounts.zip",
       "dropbox_url": ""
     },
     "Marlthon-SeaAnimals": {
@@ -514,48 +472,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260503-160254/TheOllix-PixelMapIcons.zip",
       "dropbox_url": ""
     },
-    "Therzie-Armory": {
-      "kind": "plugin",
-      "size": 45937914,
-      "sha256": "dd2b7ab43cededd191173eb24cbd71225827ae64dbcb86ab5bc2453582cc898b",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-Armory.zip",
-      "dropbox_url": ""
-    },
-    "Therzie-Monstrum": {
-      "kind": "plugin",
-      "size": 122052534,
-      "sha256": "9810c5d4a3c9b611613ecf7814bb44771168f27cb1a33e7457da647672afc4ca",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-Monstrum.zip",
-      "dropbox_url": ""
-    },
-    "Therzie-MonstrumDeepNorth": {
-      "kind": "plugin",
-      "size": 423933378,
-      "sha256": "aec373324d6eeb3a8b47d102ce6ad783e38d81e8b9ef9a2999d578705e0e4814",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-MonstrumDeepNorth.zip",
-      "dropbox_url": ""
-    },
-    "Therzie-Warfare": {
-      "kind": "plugin",
-      "size": 182120853,
-      "sha256": "dcee3d8c8cd9dee9b04ea4469df43c34d3e4ace26776456395bda9071419afdf",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-Warfare.zip",
-      "dropbox_url": ""
-    },
-    "Therzie-WarfareFireAndIce": {
-      "kind": "plugin",
-      "size": 207881019,
-      "sha256": "b49b559a80029fe725f73f2ea4671a4c4c0cae417222c257a8d6420f44655092",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-WarfareFireAndIce.zip",
-      "dropbox_url": ""
-    },
-    "Therzie-Wizardry": {
-      "kind": "plugin",
-      "size": 106760837,
-      "sha256": "b89c03d07b608376fe3b6ae7e201a3b031be42d8fb07a3310077fac09cc1ae9e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Therzie-Wizardry.zip",
-      "dropbox_url": ""
-    },
     "ValheimModding-Jotunn": {
       "kind": "plugin",
       "size": 838717,
@@ -687,13 +603,6 @@
       "size": 62223,
       "sha256": "15ca0c080ab530c47400bf24cfa79245c49c3959812861d40304fb877431d2fe",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-FoodDurationMultiplier.zip",
-      "dropbox_url": ""
-    },
-    "blacks7ar-OdinsHares": {
-      "kind": "plugin",
-      "size": 6984971,
-      "sha256": "d42b8469fa3bff5b0ae965e8348d2242a75ec9a369ed184da723f754b132047f",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/blacks7ar-OdinsHares.zip",
       "dropbox_url": ""
     },
     "blacks7ar-WeaponAdditions": {
