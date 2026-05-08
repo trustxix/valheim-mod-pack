@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260507-055741",
-  "timestamp": "2026-05-07T05:59:41.115731+00:00",
+  "version": "v20260508-164610",
+  "timestamp": "2026-05-08T16:46:12.513987+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,19 +11,12 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 743114,
-    "sha256": "4c91eba3d7d26ebc4df8917b44f0f4db84882b8bdbfd05cd9d676386fe116a0b",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-050636/configs-client.zip",
+    "size": 693032,
+    "sha256": "c9888363e47b60159c6cc4d848f4616ca53a54c3e43b0af7d02f3c341a0eeeb8",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-164610/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
-    "A2-No_Startup_Logo": {
-      "kind": "plugin",
-      "size": 93225,
-      "sha256": "5dd110d309d788813a4120e9a8ec7b9e4b2f52b764c04d8c41d2dc28486d1d29",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/A2-No_Startup_Logo.zip",
-      "dropbox_url": ""
-    },
     "ASharpPen-Spawn_That": {
       "kind": "plugin",
       "size": 282026,
@@ -260,13 +253,6 @@
       "size": 16165,
       "sha256": "fd13c851ec4c1a1b35f996ff3d8c3000ad0a62f75bd6b5349de3833d6c97d64c",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/MSchmoecker-LocalizationCache.zip",
-      "dropbox_url": ""
-    },
-    "MSchmoecker-MultiUserChest": {
-      "kind": "plugin",
-      "size": 84561,
-      "sha256": "33ae5d2a71c456d1d6603b0378b7583433004f4a97c85c21a7861d751bf13aa0",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/MSchmoecker-MultiUserChest.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-StartupHotfix": {
@@ -745,25 +731,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/mtnewton-ItemStacks.zip",
       "dropbox_url": ""
     },
-    "shudnal-Firefly": {
-      "kind": "plugin",
-      "size": 116177,
-      "sha256": "634ea00831d48ae5ee6f646df55500bc98778e2796e5ef57eab8b67c805d3796",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/shudnal-Firefly.zip",
-      "dropbox_url": ""
-    },
     "shudnal-HarpoonExtended": {
       "kind": "plugin",
       "size": 132958,
       "sha256": "6adabf7a4ad0945be82c931babb83c902453f108e599989a2bba76f161d25db0",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/shudnal-HarpoonExtended.zip",
-      "dropbox_url": ""
-    },
-    "shudnal-HipLantern": {
-      "kind": "plugin",
-      "size": 155430,
-      "sha256": "b79d7ed1ab60528072d55ffa8c90fdab0792ab12f468531ba2d63ef57ba349bb",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/shudnal-HipLantern.zip",
       "dropbox_url": ""
     },
     "sighsorry-Fast_AssetBundle_Loader": {
