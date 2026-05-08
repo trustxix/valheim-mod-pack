@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260508-184204",
-  "timestamp": "2026-05-08T18:42:06.535003+00:00",
+  "version": "v20260508-220755",
+  "timestamp": "2026-05-08T22:12:55.781391+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 479083,
-    "sha256": "21ae8859c436952466fc8195f69c94715d192b2e03ff45282080fd0f5e3ed047",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-184204/configs-client.zip",
+    "size": 518944,
+    "sha256": "02f7345bf6a2899834c944fb8e7f067ea347ee3910a3506ec5833bacfadf4dcc",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -108,6 +108,41 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-Where_You_At.zip",
       "dropbox_url": ""
     },
+    "Balrond-balrond_amazing_nature": {
+      "kind": "plugin",
+      "size": 296691950,
+      "sha256": "ce1a593b3bbc0a5162c4ae050063c3b89ce9ebdd85ed7bdc37f60be90ec97786",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Balrond-balrond_amazing_nature.zip",
+      "dropbox_url": ""
+    },
+    "Balrond-balrond_character_customization": {
+      "kind": "plugin",
+      "size": 7846217,
+      "sha256": "bb43a1a1b95f15daf7d472c8d8893ff2261ef7cf45a28acaf5c4d352bff8e205",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Balrond-balrond_character_customization.zip",
+      "dropbox_url": ""
+    },
+    "Balrond-balrond_constructions": {
+      "kind": "plugin",
+      "size": 40826527,
+      "sha256": "458245a0039248a97f9954d81a4e53322f92f0db2fc247d35f480337a840f01c",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Balrond-balrond_constructions.zip",
+      "dropbox_url": ""
+    },
+    "Balrond-balrond_furRandomizer": {
+      "kind": "plugin",
+      "size": 3320970,
+      "sha256": "2391f97bed009e4bf70b545f8afa1d7265712da559884c66ab6fc2af2370e6ba",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Balrond-balrond_furRandomizer.zip",
+      "dropbox_url": ""
+    },
+    "Balrond-balrond_humanoidRandomizer": {
+      "kind": "plugin",
+      "size": 19027913,
+      "sha256": "6f312edcd51cd923000ef76af9a82021c98d595d4f729806c678ae318cc8b04f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Balrond-balrond_humanoidRandomizer.zip",
+      "dropbox_url": ""
+    },
     "BasilPanda-NoStamCosts": {
       "kind": "plugin",
       "size": 116841,
@@ -148,6 +183,13 @@
       "size": 34897,
       "sha256": "adc26391176657977831187c9a091f1b35ba2979471bd4c3b4b1966946ddaffd",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/HugotheDwarf-More_and_Modified_Player_Cloth_Colliders.zip",
+      "dropbox_url": ""
+    },
+    "JereKuusela-BetterContinents": {
+      "kind": "plugin",
+      "size": 1810513,
+      "sha256": "a954320cea886e1d6750229ee02412939d61d27685cb3600baa4369fe161941f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/JereKuusela-BetterContinents.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Projectile_Collision": {
@@ -234,6 +276,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260507-050636/Searica-ToolTweaks.zip",
       "dropbox_url": ""
     },
+    "Smoothbrain-Backpacks": {
+      "kind": "plugin",
+      "size": 1069061,
+      "sha256": "f0221684c02b8af518b1720b63988fdf1299010133c8cf72ea67238e54248877",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Smoothbrain-Backpacks.zip",
+      "dropbox_url": ""
+    },
     "Smoothbrain-Building": {
       "kind": "plugin",
       "size": 108050,
@@ -318,6 +367,13 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
+    "Smoothbrain-TargetPortal": {
+      "kind": "plugin",
+      "size": 228416,
+      "sha256": "b7489c09778978199c87709c87d8288e0346434cf523395393d4ce30f6009042",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Smoothbrain-TargetPortal.zip",
+      "dropbox_url": ""
+    },
     "Smoothbrain-Tenacity": {
       "kind": "plugin",
       "size": 84484,
@@ -390,9 +446,9 @@
     },
     "ZenDragon-ZenPlayer": {
       "kind": "plugin",
-      "size": 58848,
-      "sha256": "8a6dcc1d123bd84e4e004d7c328f57cc1a35786190f9d6d2484a50c459cf6e1d",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenPlayer.zip",
+      "size": 61437,
+      "sha256": "328e7de25afe2268548989fdacfa31fa041420c3b5ff5819f3141df9b89bc327",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/ZenDragon-ZenPlayer.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenRecycle": {
