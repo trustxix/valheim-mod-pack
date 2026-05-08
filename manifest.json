@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260508-165644",
-  "timestamp": "2026-05-08T16:56:46.477649+00:00",
+  "version": "v20260508-170847",
+  "timestamp": "2026-05-08T17:08:49.853380+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 625801,
-    "sha256": "ba40ed660fb3ace5c000297bb1e4b5a288893c2d8dca8f62045ddab8669d2052",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-165644/configs-client.zip",
+    "size": 610138,
+    "sha256": "92f73ad91c6c09c61989bbb653b9ceb34744df96d79e05548a6ce02d787078b6",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-170847/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -148,20 +148,6 @@
       "size": 50288643,
       "sha256": "291060dfd5d290c91fe01ffbcadd1f32ee57ab366c6b9be87e5afc75447f59f3",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260504-034518/Catharis-WildWeapons.zip",
-      "dropbox_url": ""
-    },
-    "ChebGonaz-ChebsMercenaries": {
-      "kind": "plugin",
-      "size": 9609930,
-      "sha256": "23af8a92eb7fdb445617acff9ea0a0ade7b55011a37a7990a4b5a0d84e2497c3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ChebGonaz-ChebsMercenaries.zip",
-      "dropbox_url": ""
-    },
-    "ChebGonaz-ChebsNecromancy": {
-      "kind": "plugin",
-      "size": 9633990,
-      "sha256": "9c8c023d546e01462b24e5e8a102ea202edb9e7c28044d5b1aa67611daba79cd",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/ChebGonaz-ChebsNecromancy.zip",
       "dropbox_url": ""
     },
     "ComfyMods-SearsCatalog": {
@@ -547,13 +533,6 @@
       "size": 58848,
       "sha256": "8a6dcc1d123bd84e4e004d7c328f57cc1a35786190f9d6d2484a50c459cf6e1d",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260505-152401/ZenDragon-ZenPlayer.zip",
-      "dropbox_url": ""
-    },
-    "ZenDragon-ZenRaids": {
-      "kind": "plugin",
-      "size": 44063,
-      "sha256": "efb205aa1e5dd8f4c77c511b76dfa888a6fc61827283026312d97580cdeea435",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260506-200342/ZenDragon-ZenRaids.zip",
       "dropbox_url": ""
     },
     "ZenDragon-ZenRecycle": {
