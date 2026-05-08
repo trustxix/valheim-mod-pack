@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260508-174459",
-  "timestamp": "2026-05-08T17:45:01.830171+00:00",
+  "version": "v20260508-182701",
+  "timestamp": "2026-05-08T18:27:03.480105+00:00",
   "modset": "client",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 514866,
-    "sha256": "d82705a0885869b1e0557d5e035c2fda1f8711f45428f39c49cb2b4bb035b683",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-174459/configs-client.zip",
+    "size": 513814,
+    "sha256": "f817d08e6b530d7de17ece02f1ab9e4a4ade73e18e5772d84b31639926cbb07c",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-182701/configs-client.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -316,13 +316,6 @@
       "size": 66285,
       "sha256": "625071284f9924361090c126cd6288e309cbade3d317ff053952c29f9eb64d49",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Sailing.zip",
-      "dropbox_url": ""
-    },
-    "Smoothbrain-TargetPortal": {
-      "kind": "plugin",
-      "size": 228416,
-      "sha256": "b7489c09778978199c87709c87d8288e0346434cf523395393d4ce30f6009042",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-TargetPortal.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Tenacity": {
