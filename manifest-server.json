@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "v20260510-032438",
-  "timestamp": "2026-05-10T03:27:11.765524+00:00",
+  "version": "v20260510-041233",
+  "timestamp": "2026-05-10T04:14:43.030794+00:00",
   "modset": "server",
   "game_build_id": "21981559",
   "bepinex_pack": {
@@ -11,9 +11,9 @@
     "dropbox_url": ""
   },
   "configs": {
-    "size": 772349,
-    "sha256": "bf1583b7c82e9130c4ad143cd333516d31a460ed6a20dfba06ee37628fd19e5c",
-    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260510-032438/configs-server.zip",
+    "size": 777931,
+    "sha256": "66150c5496436d1c8b373b2dfa0c2b4beb0fbeb9d1e3af50609ac6fbb46300ba",
+    "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260510-041233/configs-server.zip",
     "dropbox_url": ""
   },
   "mods": {
@@ -115,13 +115,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-AzuExtendedPlayerInventory.zip",
       "dropbox_url": ""
     },
-    "Azumatt-AAA_Crafting": {
-      "kind": "plugin",
-      "size": 2254469,
-      "sha256": "1b57014c3cfe615775b11502e2a3e94b19bba4f94fa9dad7242141c5100657de",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-AAA_Crafting.zip",
-      "dropbox_url": ""
-    },
     "Azumatt-AzuCraftyBoxes": {
       "kind": "plugin",
       "size": 1966482,
@@ -134,6 +127,13 @@
       "size": 116841,
       "sha256": "87a89c81a76dd1a3931945925211a183dfe181f6aa342d6badfe0c38b4c9a801",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/BasilPanda-NoStamCosts.zip",
+      "dropbox_url": ""
+    },
+    "Azumatt-AAA_Crafting": {
+      "kind": "plugin",
+      "size": 2254469,
+      "sha256": "1b57014c3cfe615775b11502e2a3e94b19bba4f94fa9dad7242141c5100657de",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Azumatt-AAA_Crafting.zip",
       "dropbox_url": ""
     },
     "BentoG-MissingPieces": {
@@ -206,11 +206,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/HugotheDwarf-More_and_Modified_Player_Cloth_Colliders.zip",
       "dropbox_url": ""
     },
-    "JereKuusela-Expand_World_Data": {
+    "ChebGonaz-ChebsMercenaries": {
       "kind": "plugin",
-      "size": 246068,
-      "sha256": "70023c0a9f2765ef548a4e6db29c8aa76b1f1f0b7c489981e7479b1044b8897e",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/JereKuusela-Expand_World_Data.zip",
+      "size": 9609930,
+      "sha256": "23af8a92eb7fdb445617acff9ea0a0ade7b55011a37a7990a4b5a0d84e2497c3",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/ChebGonaz-ChebsMercenaries.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Expand_World_Events": {
@@ -220,18 +220,18 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-033418/JereKuusela-Expand_World_Events.zip",
       "dropbox_url": ""
     },
+    "JereKuusela-Expand_World_Data": {
+      "kind": "plugin",
+      "size": 246068,
+      "sha256": "70023c0a9f2765ef548a4e6db29c8aa76b1f1f0b7c489981e7479b1044b8897e",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/JereKuusela-Expand_World_Data.zip",
+      "dropbox_url": ""
+    },
     "JereKuusela-Expand_World_Rivers": {
       "kind": "plugin",
       "size": 141962,
       "sha256": "fe5f93f3f651e8cdc8f5feaea14df1b045cbabf46e6f10c5105762b911d6b103",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/JereKuusela-Expand_World_Rivers.zip",
-      "dropbox_url": ""
-    },
-    "ChebGonaz-ChebsMercenaries": {
-      "kind": "plugin",
-      "size": 9609930,
-      "sha256": "23af8a92eb7fdb445617acff9ea0a0ade7b55011a37a7990a4b5a0d84e2497c3",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/ChebGonaz-ChebsMercenaries.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Expand_World_Size": {
@@ -248,13 +248,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Projectile_Collision.zip",
       "dropbox_url": ""
     },
-    "ChebGonaz-ChebsNecromancy": {
-      "kind": "plugin",
-      "size": 9633990,
-      "sha256": "9c8c023d546e01462b24e5e8a102ea202edb9e7c28044d5b1aa67611daba79cd",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/ChebGonaz-ChebsNecromancy.zip",
-      "dropbox_url": ""
-    },
     "JereKuusela-Infinity_Hammer": {
       "kind": "plugin",
       "size": 191172,
@@ -267,6 +260,13 @@
       "size": 152470,
       "sha256": "71643089a78437421f551fffba1dfaa5cab5a9ca4952ba930d9f8992016fa370",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-033418/JereKuusela-Render_Limits.zip",
+      "dropbox_url": ""
+    },
+    "ChebGonaz-ChebsNecromancy": {
+      "kind": "plugin",
+      "size": 9633990,
+      "sha256": "9c8c023d546e01462b24e5e8a102ea202edb9e7c28044d5b1aa67611daba79cd",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/ChebGonaz-ChebsNecromancy.zip",
       "dropbox_url": ""
     },
     "JereKuusela-Upgrade_World": {
@@ -295,13 +295,6 @@
       "size": 305814,
       "sha256": "4391aba10bd1e7818d7671715571bfca30e1f328e5764e94b275b0439c45b52c",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/JereKuusela-Server_devcommands.zip",
-      "dropbox_url": ""
-    },
-    "MSchmoecker-StartupHotfix": {
-      "kind": "both",
-      "size": 11056,
-      "sha256": "b14684e1e43f3107cbfa008fbd69cee63809904a371af3bc58794e2dae93d79c",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/MSchmoecker-StartupHotfix.zip",
       "dropbox_url": ""
     },
     "MSchmoecker-MultiUserChest": {
@@ -430,11 +423,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260502-023711/Searica-AdvancedTerrainModifiers.zip",
       "dropbox_url": ""
     },
-    "OdinPlus-PotionPlus": {
+    "OdinPlus-OdinArchitect": {
       "kind": "plugin",
-      "size": 5886064,
-      "sha256": "aad901b084694b66e767567354e04452eb38e655f72bbbdaa4f15c0a649ce959",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/OdinPlus-PotionPlus.zip",
+      "size": 29611825,
+      "sha256": "bec54f78f481dcf7b152b471c6454af87c464e44a6ebd08f517b08116436558d",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/OdinPlus-OdinArchitect.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Building": {
@@ -444,11 +437,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Building.zip",
       "dropbox_url": ""
     },
-    "OdinPlus-OdinArchitect": {
+    "OdinPlus-PotionPlus": {
       "kind": "plugin",
-      "size": 29611825,
-      "sha256": "bec54f78f481dcf7b152b471c6454af87c464e44a6ebd08f517b08116436558d",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/OdinPlus-OdinArchitect.zip",
+      "size": 5886064,
+      "sha256": "aad901b084694b66e767567354e04452eb38e655f72bbbdaa4f15c0a649ce959",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/OdinPlus-PotionPlus.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Cooking": {
@@ -465,18 +458,18 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-DualWield.zip",
       "dropbox_url": ""
     },
-    "Smoothbrain-Evasion": {
-      "kind": "plugin",
-      "size": 85478,
-      "sha256": "ccfd4ac982328c65b47af47e81bcb302e591a9bfceb5ae763312338f57eea14f",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Evasion.zip",
-      "dropbox_url": ""
-    },
     "Smoothbrain-Backpacks": {
       "kind": "plugin",
       "size": 1069061,
       "sha256": "f0221684c02b8af518b1720b63988fdf1299010133c8cf72ea67238e54248877",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260508-220755/Smoothbrain-Backpacks.zip",
+      "dropbox_url": ""
+    },
+    "Smoothbrain-Evasion": {
+      "kind": "plugin",
+      "size": 85478,
+      "sha256": "ccfd4ac982328c65b47af47e81bcb302e591a9bfceb5ae763312338f57eea14f",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Evasion.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Exploration": {
@@ -493,13 +486,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Foraging.zip",
       "dropbox_url": ""
     },
-    "Smoothbrain-CreatureLevelAndLootControl": {
-      "kind": "plugin",
-      "size": 777195,
-      "sha256": "1e513d0ce5c6cc44f8c9bd14ed3b6bc4895cc8df9b221505569aef522441875b",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-033418/Smoothbrain-CreatureLevelAndLootControl.zip",
-      "dropbox_url": ""
-    },
     "Smoothbrain-Lumberjacking": {
       "kind": "plugin",
       "size": 104889,
@@ -507,11 +493,11 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Lumberjacking.zip",
       "dropbox_url": ""
     },
-    "Smoothbrain-PackHorse": {
+    "Smoothbrain-CreatureLevelAndLootControl": {
       "kind": "plugin",
-      "size": 75956,
-      "sha256": "5436ecd3bf507483adf703fce63e97de455504d2003dcc3af52cc9fc6024dcc6",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-PackHorse.zip",
+      "size": 777195,
+      "sha256": "1e513d0ce5c6cc44f8c9bd14ed3b6bc4895cc8df9b221505569aef522441875b",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-033418/Smoothbrain-CreatureLevelAndLootControl.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Mining": {
@@ -521,11 +507,25 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Mining.zip",
       "dropbox_url": ""
     },
+    "Smoothbrain-PackHorse": {
+      "kind": "plugin",
+      "size": 75956,
+      "sha256": "5436ecd3bf507483adf703fce63e97de455504d2003dcc3af52cc9fc6024dcc6",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-PackHorse.zip",
+      "dropbox_url": ""
+    },
     "Smoothbrain-Ranching": {
       "kind": "plugin",
       "size": 48404,
       "sha256": "1ed5e751b649f64a3b7be8caf529fab518b146407956af79beb2c06c5d9d4d5b",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Ranching.zip",
+      "dropbox_url": ""
+    },
+    "Smoothbrain-Sailing": {
+      "kind": "plugin",
+      "size": 66285,
+      "sha256": "625071284f9924361090c126cd6288e309cbade3d317ff053952c29f9eb64d49",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-SmoothSave": {
@@ -540,13 +540,6 @@
       "size": 37483,
       "sha256": "6ef408074c6f17b65bf332b8108d389b58e4ba674dd492393601b18da6327785",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-StartupAccelerator.zip",
-      "dropbox_url": ""
-    },
-    "Smoothbrain-Sailing": {
-      "kind": "plugin",
-      "size": 66285,
-      "sha256": "625071284f9924361090c126cd6288e309cbade3d317ff053952c29f9eb64d49",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/Smoothbrain-Sailing.zip",
       "dropbox_url": ""
     },
     "Smoothbrain-Tenacity": {
@@ -773,13 +766,6 @@
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260430-073526/cjayride-InstantMonsterLootDrop.zip",
       "dropbox_url": ""
     },
-    "Therzie-Monstrum": {
-      "kind": "plugin",
-      "size": 122052534,
-      "sha256": "9810c5d4a3c9b611613ecf7814bb44771168f27cb1a33e7457da647672afc4ca",
-      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/Therzie-Monstrum.zip",
-      "dropbox_url": ""
-    },
     "malafein-HitchingPost": {
       "kind": "plugin",
       "size": 143253,
@@ -806,6 +792,13 @@
       "size": 145069,
       "sha256": "ab7cef82d38f307f7c3735f5c266f2edbd3b557b9af89c097cb75eb6a5be923b",
       "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-133759/shudnal-GammaOfNightLights.zip",
+      "dropbox_url": ""
+    },
+    "Therzie-Monstrum": {
+      "kind": "plugin",
+      "size": 122052534,
+      "sha256": "9810c5d4a3c9b611613ecf7814bb44771168f27cb1a33e7457da647672afc4ca",
+      "github_url": "https://github.com/trustxix/valheim-mod-pack/releases/download/v20260509-003019/Therzie-Monstrum.zip",
       "dropbox_url": ""
     },
     "shudnal-HarpoonExtended": {
